@@ -24,3 +24,4 @@ function mutiplica(numero1, numero2){
 }
 
 console.log(mutiplica(soma(4, 5), soma(3, 3)));
+
